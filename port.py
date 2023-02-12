@@ -3,7 +3,7 @@ import sys
 from os import system
 
 system("setterm -foreground green")
-ip = input("Ingrese la IP que desea escanear > ")
+ip = input("[+]Ingrese la IP que desea escanear > ")
 print("")
 
 ip_addr = (ip)
